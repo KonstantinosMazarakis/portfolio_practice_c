@@ -25,5 +25,15 @@ namespace portfolio_practice_c
         {
             return View("Contact");
         }
+
+        [HttpPost("PostForm")]
+        public IActionResult PostForm()
+        {
+            return RedirectToAction("Index");
+        }
+
+
+
+
     }
 }

@@ -26,7 +26,7 @@ namespace portfolio_practice_c
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseStaticFiles();
             app.UseMvc();
             app.UseRouting();
 
