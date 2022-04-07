@@ -14402,6 +14402,16 @@
   "RootNamespace": "portfolio_practice_c",
   "Documents": [
     {
+      "FilePath": "c:\\CodingDojo\\c#\\assigments\\portfolio_practice_c\\Views\\Home\\contact.cshtml",
+      "TargetPath": "Views\\Home\\contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\CodingDojo\\c#\\assigments\\portfolio_practice_c\\Views\\Home\\Projects.cshtml",
+      "TargetPath": "Views\\Home\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\CodingDojo\\c#\\assigments\\portfolio_practice_c\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"

@@ -29,3 +29,5 @@ C:\CodingDojo\c#\assigments\portfolio_practice_c\obj\Debug\netcoreapp3.1\portfol
 C:\CodingDojo\c#\assigments\portfolio_practice_c\obj\Debug\netcoreapp3.1\portfolio_practice_c.pdb
 C:\CodingDojo\c#\assigments\portfolio_practice_c\obj\Debug\netcoreapp3.1\portfolio_practice_c.genruntimeconfig.cache
 C:\CodingDojo\c#\assigments\portfolio_practice_c\obj\Debug\netcoreapp3.1\portfolio_practice_c.csproj.CopyComplete
+C:\CodingDojo\c#\assigments\portfolio_practice_c\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+C:\CodingDojo\c#\assigments\portfolio_practice_c\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs

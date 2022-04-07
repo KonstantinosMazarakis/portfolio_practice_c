@@ -7,23 +7,23 @@ namespace portfolio_practice_c
     {
         [Route("")]
         [HttpGet]
-        public string Index()
+        public ViewResult Index()
         {
-            return "This is my Index!";
+            return View("Index");
         }
 
         [Route("projects")]
         [HttpGet]
-        public string Projects()
+        public ViewResult Projects()
         {
-            return "This is my Projects!";
+            return View("Projects");
         }
 
         [Route("contact")]
                 [HttpGet]
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "This is my Contact!";
+            return View("Contact");
         }
     }
 }
